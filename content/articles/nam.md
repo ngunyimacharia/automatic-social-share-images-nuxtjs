@@ -1,10 +1,9 @@
 ---
 title: Nam posuere diam eros, sit amet elementum massa volutpat vel.
 description: CNam posuere diam eros, sit amet elementum massa volutpat vel. Morbi eu euismod tortor. Proin convallis tellus vitae ullamcorper semper. Nunc blandit hendrerit odio, quis lobortis dui euismod hendrerit. Praesent dolor justo, maximus nec vehicula et, maximus eget augue.
-
-image: https://images.unsplash.com/photo-1499854413229-6d1c92ff39ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2131&q=80
+image: automatic-social-share-images-nuxtjs/photo-1499854413229-6d1c92ff39ef
 author: Oscar Gignac
-author_avatar: https://avataaars.io/?avatarStyle=Circle&topType=Eyepatch&accessoriesType=Prescription01&hairColor=Platinum&facialHairType=BeardLight&facialHairColor=Brown&clotheType=ShirtVNeck&clotheColor=Blue02&eyeType=Side&eyebrowType=Angry&mouthType=Twinkle&skinColor=Pale
+author_avatar: automatic-social-share-images-nuxtjs/avataaars-4
 ---
 
 Curabitur maximus ac est non tincidunt. Nulla rhoncus, est ac ultricies rhoncus, leo erat mollis sem, tempus interdum sapien nulla non leo. Sed ultrices tempus mattis. Aenean eget tellus porta, convallis velit eget, accumsan sapien. Nullam dignissim porta leo id porta. Curabitur dictum consequat nulla, nec rutrum purus tincidunt non. Curabitur sodales posuere dolor, non consectetur dui efficitur at. In sodales odio dapibus risus malesuada fringilla. Nulla gravida mattis eros, sit amet fringilla purus faucibus eget.

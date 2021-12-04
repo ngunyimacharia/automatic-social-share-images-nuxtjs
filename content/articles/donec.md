@@ -1,9 +1,9 @@
 ---
 title: Donec pulvinar felis nec mattis tincidunt.
 description: Donec pulvinar felis nec mattis tincidunt. Nullam id augue accumsan, accumsan elit ut, fringilla turpis. Mauris commodo turpis ac ornare sagittis. Aliquam commodo, purus eu eleifend ultricies, nibh quam tempus erat, nec laoreet lectus tellus et mi. 
-image: https://images.unsplash.com/photo-1503751071777-d2918b21bbd9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+image: automatic-social-share-images-nuxtjs/photo-1503751071777-d2918b21bbd9
 author: Paulina Huscher
-author_avatar: https://avataaars.io/?avatarStyle=Circle&topType=WinterHat2&accessoriesType=Prescription01&hatColor=Blue01&facialHairType=BeardMedium&facialHairColor=BlondeGolden&clotheType=GraphicShirt&clotheColor=Pink&graphicType=Skull&eyeType=Cry&eyebrowType=DefaultNatural&mouthType=Disbelief&skinColor=Black
+author_avatar: automatic-social-share-images-nuxtjs/avataaars-2
 ---
 
 Curabitur maximus ac est non tincidunt. Nulla rhoncus, est ac ultricies rhoncus, leo erat mollis sem, tempus interdum sapien nulla non leo. Sed ultrices tempus mattis. Aenean eget tellus porta, convallis velit eget, accumsan sapien. Nullam dignissim porta leo id porta. Curabitur dictum consequat nulla, nec rutrum purus tincidunt non. Curabitur sodales posuere dolor, non consectetur dui efficitur at. In sodales odio dapibus risus malesuada fringilla. Nulla gravida mattis eros, sit amet fringilla purus faucibus eget.

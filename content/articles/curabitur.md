@@ -1,10 +1,9 @@
 ---
 title: Curabitur maximus ac est non tincidunt.
 description: Curabitur maximus ac est non tincidunt. Nulla rhoncus, est ac ultricies rhoncus, leo erat mollis sem, tempus interdum sapien nulla non leo. Sed ultrices tempus mattis. Aenean eget tellus porta, convallis velit eget, accumsan sapien. Nullam dignissim porta leo id porta. Curabitur dictum consequat nulla, nec rutrum purus tincidunt non. Curabitur sodales posuere dolor, non consectetur dui efficitur at. In sodales odio dapibus risus malesuada fringilla. Nulla gravida mattis eros, sit amet fringilla purus faucibus eget.
-
-image: https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80
+image:  automatic-social-share-images-nuxtjs/photo-1494253109108-2e30c049369b
 author: Madelene Gabbay
-author_avatar: https://avataaars.io/?avatarStyle=Circle&topType=LongHairFroBand&accessoriesType=Wayfarers&hairColor=SilverGray&facialHairType=BeardMedium&facialHairColor=BrownDark&clotheType=ShirtVNeck&clotheColor=Gray01&eyeType=Squint&eyebrowType=SadConcernedNatural&mouthType=Grimace&skinColor=Brown
+author_avatar: automatic-social-share-images-nuxtjs/avataaars
 ---
 
 Curabitur maximus ac est non tincidunt. Nulla rhoncus, est ac ultricies rhoncus, leo erat mollis sem, tempus interdum sapien nulla non leo. Sed ultrices tempus mattis. Aenean eget tellus porta, convallis velit eget, accumsan sapien. Nullam dignissim porta leo id porta. Curabitur dictum consequat nulla, nec rutrum purus tincidunt non. Curabitur sodales posuere dolor, non consectetur dui efficitur at. In sodales odio dapibus risus malesuada fringilla. Nulla gravida mattis eros, sit amet fringilla purus faucibus eget.

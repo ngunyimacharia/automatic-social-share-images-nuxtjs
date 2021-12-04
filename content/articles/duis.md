@@ -1,9 +1,9 @@
 ---
 title: Duis nulla eros, dictum et sem id
 description: Duis nulla eros, dictum et sem id, suscipit fringilla massa. Nullam maximus elementum varius. Etiam suscipit ex ac gravida aliquet. Aenean ullamcorper odio quis velit suscipit rutrum. 
-image: https://images.unsplash.com/photo-1481349518771-20055b2a7b24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3039&q=80
+image: automatic-social-share-images-nuxtjs/photo-1481349518771-20055b2a7b24
 author: Ime Okoro
-author_avatar: https://avataaars.io/?avatarStyle=Circle&topType=LongHairStraight2&accessoriesType=Sunglasses&hairColor=Red&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Dizzy&eyebrowType=UpDown&mouthType=Concerned&skinColor=Pale
+author_avatar: automatic-social-share-images-nuxtjs/avataaars-3
 ---
 
 Duis nulla eros, dictum et sem id, suscipit fringilla massa. Nullam maximus elementum varius. Etiam suscipit ex ac gravida aliquet. Aenean ullamcorper odio quis velit suscipit rutrum. Aliquam erat volutpat. Aenean ornare at dolor in interdum. Cras felis turpis, aliquet id nisl eget, pulvinar interdum neque. Vivamus commodo tempor nisl quis vestibulum.

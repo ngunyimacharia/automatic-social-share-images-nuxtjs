@@ -126,7 +126,7 @@
             >{{ article.title }}</span
           >
         </h1>
-        <img class="my-10" :src="article.image" />
+        <img class="my-10" :src="$cloudinary.image.url(article.image)" />
       </div>
       <div class="prose prose-indigo prose-lg text-gray-500 mx-auto">
         <div class="flex flex-row-reverse">
@@ -135,7 +135,7 @@
               <img
                 class="inline-block h-9 w-9 rounded-full mr-2"
                 style="margin: 0"
-                :src="article.author_avatar"
+                :src="$cloudinary.image.url(article.author_avatar)"
                 alt=""
               />
             </div>

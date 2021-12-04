@@ -36,7 +36,11 @@
           class="flex flex-col rounded-lg shadow-lg overflow-hidden"
         >
           <div class="flex-shrink-0">
-            <img class="h-48 w-full object-cover" :src="article.image" alt="" />
+            <img
+              class="h-48 w-full object-cover"
+              :src="$cloudinary.image.url(article.image)"
+              alt=""
+            />
           </div>
           <div class="flex-1 bg-white p-6 flex flex-col justify-between">
             <div class="flex-1">
@@ -55,7 +59,7 @@
                   <span class="sr-only">{{ article.author }}</span>
                   <img
                     class="h-10 w-10 rounded-full"
-                    :src="article.author_avatar"
+                    :src="$cloudinary.image.url(article.author_avatar)"
                     alt=""
                   />
                 </nuxt-link>
