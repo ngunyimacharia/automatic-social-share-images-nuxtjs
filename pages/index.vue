@@ -23,7 +23,7 @@ export default {
 
     return {
       article,
-      articles: [article, article, article],
+      articles,
     };
   },
 };
